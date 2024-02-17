@@ -1,0 +1,108 @@
+.food-color {
+    color: #F17228;
+}
+
+.wagon-color {
+    color: #FFB30E;
+}
+
+.top-side-right>h1 {
+    font-family: Source Sans Pro;
+    font-weight: 700;
+    font-size: 31px;
+    line-height: 37px;
+    letter-spacing: -2.5%;
+    padding :10px;
+}
+
+
+.address>h3 {
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    color: #424242;
+    padding: 10px;
+
+
+}
+
+.address>h3>span {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 25.2px;
+    font-family: Open Sans;
+}
+
+.srch-one>h3 {
+    color: #424242;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    padding: 10px;
+ 
+}
+.srch-two>h3{
+    color: #FFB30E;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    padding: 10px;
+ 
+}
+.slid{
+    background-color: rgb(245, 180, 16);
+
+
+}
+
+.slid-left>h1{
+    color: white;
+    font-weight:700;
+}
+.btn-left>button{
+    color:#F17228;
+    background-color: #f3bfa01a;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin-top: 10px;
+    border-bottom: 10px;
+
+    
+}
+.btn-left-two>button{
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom:10px;
+}
+
+.slid-card{
+    
+   height: 130px;
+    background-color: white;
+    border-radius: 5px;
+   
+}
+.srch-loc-one>input{
+    border:none ;
+    color: #eeeaea;
+    padding: 10px;
+    
+}
+.srch-btn>button{
+    margin-left: 10px;
+    background-color: #FF7A7A;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 50px;
+    border: 1px solid yellow;
+
+
+    
+}
+.botm-img{
+    mar
+}
