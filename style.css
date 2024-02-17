@@ -22,6 +22,7 @@
     line-height: 18px;
     color: #424242;
     padding: 10px;
+    margin-left: -5px;
 
 
 }
@@ -103,6 +104,10 @@
 
     
 }
-.botm-img{
-    mar
+.rite-cl{
+   
+}
+@media screen and (max-width 600){
+    
+
 }
