@@ -52,6 +52,7 @@
 }
 .slid{
     background-color: rgb(245, 180, 16);
+    
 
 
 }
@@ -105,9 +106,22 @@
     
 }
 .rite-cl{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   height: 100%;
+  
    
 }
+
+.rw-mrgn{
+    margin-top: 20px;
+}
 @media screen and (max-width 600){
-    
+    .slid-right{
+        width: 100%;
+        height:400px;
+        object-fit: contain;
+    }
 
 }
